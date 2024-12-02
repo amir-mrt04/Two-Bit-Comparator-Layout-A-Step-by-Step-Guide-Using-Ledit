@@ -3,4 +3,6 @@
 
 ##Project Overview
 This project focuses on designing a two-bit comparator circuit, showcasing its logical structure using gates. Below, you can find the circuit diagram along with its gate-level representation for better clarity. The primary goal of this project is to systematically create the layout step by step using Ledit.
+
+
 ![5](https://github.com/user-attachments/assets/5915f11d-145e-4638-803b-0d5888bd3108)
