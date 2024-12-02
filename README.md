@@ -32,4 +32,20 @@ In this step, we focus on choosing the best arrangement of gates in sequence to 
 
 For this project, we successfully implemented the circuit using **two layers of interconnection**, optimizing the overall design. This approach helped us achieve a more compact and efficient layout, minimizing signal delay and enhancing performance.
 
+###Final design
+
+![image](https://github.com/user-attachments/assets/97118d32-ef07-416a-8f58-0c7930038203)
+
+## Step 3: Output Simulation with Input Signals  
+In this step, the circuit's output is simulated using the following input signals:
+
+- **VA1**: A1, Pulse signal with parameters: `0 5.0 0NS 0PS 0PS 400NS 800NS`
+- **VA0**: A0, Pulse signal with parameters: `0 5.0 0NS 0PS 0PS 200NS 400NS`
+- **VB1**: B1, Pulse signal with parameters: `0 5.0 0NS 0PS 0PS 100NS 200NS`
+- **VB0**: B0, Pulse signal with parameters: `0 5.0 0NS 0PS 0PS 50NS 100NS`
+
+The circuit was simulated using these pulse signals to test the behavior of the two-bit comparator, verifying that the output matched the expected logic for all input combinations. This simulation ensured that the layout and design were functioning correctly before final implementation.
+
+
+![image](https://github.com/user-attachments/assets/3fdbf604-3583-41cb-bf73-1a059fa416b8)
 
