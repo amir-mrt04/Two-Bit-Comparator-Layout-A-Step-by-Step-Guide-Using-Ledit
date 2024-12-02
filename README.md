@@ -6,3 +6,9 @@ This project focuses on designing a two-bit comparator circuit, showcasing its l
 
 
 ![5](https://github.com/user-attachments/assets/5915f11d-145e-4638-803b-0d5888bd3108)
+
+
+## Step 1: Designing Individual Gates  
+In the first step, each gate is designed separately. This involves creating the layout for basic gates (such as AND, OR, NOT, etc.) one by one in **Ledit**, ensuring accuracy and functionality before integrating them into the full comparator circuit.  
+###Xor
+![image](https://github.com/user-attachments/assets/db177525-bca9-4328-9263-6a46db1ae19e)
