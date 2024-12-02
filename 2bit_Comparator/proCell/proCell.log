@@ -1,0 +1,56 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = D:\uni\AVLSI\LEdit\
+Output folder        = D:\uni\AVLSI\LEdit\proCell
+
+	Parsing "D:\uni\AVLSI\LEdit\proCell.spc"
+	Including "D:\uni\AVLSI\LEdit\mosistsmc180.lib"
+
+Start of proCell.spc
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+Warning : "proCell.spc" line 87 Pulse risetime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 87 Pulse falltime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 88 Pulse risetime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 88 Pulse falltime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 89 Pulse risetime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 89 Pulse falltime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 90 Pulse risetime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 90 Pulse falltime is equal to zero, reset to tstep (5e-12)
+Warning : "proCell.spc" line 94 Devices have non-unique names: C
+        : "proCell.spc" line 93 Original
+Warning : "proCell.spc" line 95 Devices have non-unique names: C
+        : "proCell.spc" line 93 Original
+
+General options:
+        threads = 1
+
+ Device and node counts:
+              MOSFETs -      58
+    MOSFET geometries -      20
+           Capacitors -       3
+      Voltage sources -       6
+   Subckt Definitions -       1
+     Subckt Instances -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      31
+       Boundary nodes -       7
+          Total nodes -      38
+*** 10 WARNING MESSAGES GENERATED DURING SETUP
+
+
+	Opening simulation database "D:\uni\AVLSI\LEdit\proCell.tsim"
+
+Parsing                      0.09 seconds
+Setup                        0.06 seconds
+DC operating point           0.03 seconds
+Transient Analysis          43.08 seconds
+Output                       2.23 seconds
+-----------------------------------------
+Total                       44.43 seconds
+
+Simulation completed	with  10 Warnings
